@@ -4,8 +4,9 @@ The purpose of this program is to do bulk changes in the group authorizations an
 ## Usage
 
 The app expects the config.json to be present in the same directory as the binary. Then you can start it using:
-
+``` 
 java -jar AddGroupPA [parameters]
+```
 
 ### Following options are available:
 ```
