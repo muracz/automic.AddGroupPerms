@@ -1,5 +1,5 @@
 ## Description
-The purpose of this program is to do bulk changes in the group authorizations and permissions. Can be useful for example after an upgrade to V12 whene AWI permissions have to be given to the users.
+The purpose of this program is to do bulk changes in the group authorizations and permissions. It can be useful for example after an upgrade to V12 whene AWI permissions have to be given to the users.
 
 ## Usage
 
